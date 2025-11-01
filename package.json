@@ -1,0 +1,20 @@
+{
+  "name": "Base-Tele-bot",
+  "version": "1.0.0",
+  "description": "Base Simple",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "JianOfficial",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.16.0",
+    "node-fetch": "^2.6.12",
+    "axios": "^1.7.4",
+    "form-data": "^2.5.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
